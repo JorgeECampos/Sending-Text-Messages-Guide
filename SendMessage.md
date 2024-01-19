@@ -33,10 +33,12 @@ To open the Messages application on the smartphone, follow the next steps:
 > 
 2. Unlock the smartphone to access the main screen.
 
+<p align="center">
 <div style="display: flex; justify-content: space-between;">
   <img src="Images/Step1.png" alt="Step 1" height="500"/>
   <img src="Images/Step2.png" alt="Step 2" height="500"/>
 </div>
+</p>
 <br>
 
 3. Access the “Search bar” for Samsung by dragging it up from the bottom of your screen.
@@ -64,10 +66,12 @@ To write a new message and assign a Receiver/Contact on the smartphone, follow t
 
 6. On the “New Conversation” screen, write the name of the Receiver/Contact and click it. Select more than two contacts by writing and selecting each one.
 
+<p align="center">
 <div style="display: flex; justify-content: space-between;">
   <img src="Images/Step6.png" alt="Step 6" height="500"/>
   <img src="Images/Step7.png" alt="Step 7" height="500"/>
 </div>  
+</p>
 <br>
 
 7. On the bottom section of the screen, click on the empty writing section to open up the keyboard.
