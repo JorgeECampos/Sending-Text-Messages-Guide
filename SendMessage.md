@@ -1,23 +1,27 @@
 # Index
 
-1. [About this guide](#about-this-guide)
-2. [Open the message application](#open-the-message-application)
-   1. [Turn on your smartphone](#turn-on-your-smartphone)
-   2. [Unlock the smartphone](#unlock-the-smartphone)
-   3. [Access the “Search bar” for Samsung](#access-the-search-bar-for-samsung)
-   4. [Write on the “Search bar”](#write-on-the-search-bar)
-2. [Write a new message and Assign a Receiver/Contact](#write-a-new-message-and-assign-a-receivercontact)
-   1. [On the Message app, click “+” or “New” button](#on-the-message-app-click--or-new-button)
-   2. [On the “New Conversation” screen, write the name of the Receiver/Contact](#on-the-new-conversation-screen-write-the-name-of-the-receivercontact)
-   3. [On the bottom section of the screen, click on the empty writing section](#on-the-bottom-section-of-the-screen-click-on-the-empty-writing-section)
-   4. [Write the message](#write-the-message)
-      - [Add files or images](#add-files-or-images)
-3. [Send a new message](#send-a-new-message)
-   1. [Follow instructions 1-8 to open, assign a receiver, and write a message](#follow-instructions-1-8-to-open-assign-a-receiver-and-write-a-message)
-   2. [Once any given message is in the writing section, the “Send” button will appear](#once-any-given-message-is-in-the-writing-section-the-send-button-will-appear)
-   3. [Once ready, click the “Send” button to send the new message](#once-ready-click-the-send-button-to-send-the-new-message)
+[About this guide](#about-this-guide)<br>
+[Open the Messages application](#open-the-Messages-application)
+   1. Turn on your smartphone
+   2. Unlock the smartphone
+   3. Access the “Search bar” for Samsung
+   4. Write on the “Search bar”
 
+[Write a new message and Assign a Receiver/Contact](#write-a-new-message-and-assign-a-receivercontact)
+
+   5. On the Message app, click “+” or “New” button
+   6. On the “New Conversation” screen, write the name of the Receiver/Contact
+   7. On the bottom section of the screen, click on the empty writing section
+   8. Write the message
+      - Add files or images
+
+[Send a new message](#send-a-new-message)
+
+   1. Follow instructions 1-8 to open, assign a receiver, and write a message
+   2. Once any given message is in the writing section, the “Send” button will appear
+   3. Once ready, click the “Send” button to send the new message
 ---
+<br>
 
 # About this guide
 
