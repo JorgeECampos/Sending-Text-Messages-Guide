@@ -1,3 +1,11 @@
+# About this guide
+
+This manual provides a detailed overview of sending a text message from a smartphone. The instructions outlined in this guide can be applied to any smartphone, regardless of the make or model. For illustration, we will be using a Samsung phone.
+
+> **_NOTE:_**   "The index can also be used as a TL;DR."
+
+---
+
 # Index
 
 [About this guide](#about-this-guide)<br>
@@ -9,9 +17,9 @@
 
 [Write a new message and Assign a Receiver/Contact](#write-a-new-message-and-assign-a-receivercontact)
 
-   5. On the Message app, click “+” or “New” button
+   5. On the Message app, tap the “+” or “New” button
    6. On the “New Conversation” screen, write the name of the Receiver/Contact
-   7. On the bottom section of the screen, click on the empty writing section
+   7. On the bottom section of the screen, tap on the empty writing section
    8. Write the message
       - Add files or images
 
@@ -19,19 +27,15 @@
 
    9. Follow instructions 1-8 to open, assign a receiver, and write a message
    10. Once any given message is in the writing section, the “Send” button will appear
-   11. Once ready, click the “Send” button to send the new message
+   11. Once ready, tap the “Send” button to send the new message
 ---
 <br>
-
-# About this guide
-
-This manual provides a detailed overview of sending a text message from a smartphone. The instructions outlined in this guide can be applied to any smartphone, regardless of the make or model. For illustration, we will be using a Samsung phone.
 
 # Open the Messages application
 
 To open the Messages application on the smartphone, follow the next steps:
 
-1. Turn on your smartphone by clicking the On/Off button.
+1. Turn on your smartphone by tapping the On/Off button.
 
 > For further indications on the On/Off button on any given smartphone, check the User Manual provided by the vendor.
 > 
@@ -50,7 +54,7 @@ To open the Messages application on the smartphone, follow the next steps:
   <img src="Images/Step3.png" alt="Step 3" height="500"/>
 
 
-4. Write on the “Search bar” the word “message” and then click on the Message app.
+4. Write on the “Search bar” the word “message” and then tap on the Message app.
 
   <img src="Images/Step4.png" alt="Step 4" height="500"/>
 
@@ -58,11 +62,11 @@ To open the Messages application on the smartphone, follow the next steps:
 
 To write a new message and assign a Receiver/Contact on the smartphone, follow the next steps:
 
-5. On the Message app, click “+” or “New” button on the bottom right of the screen. 
+5. On the Message app, tap “+” or “New” button on the bottom right of the screen. 
 
   <img src="Images/Step5.png" alt="Step 5" height="500"/>
 
-6. On the “New Conversation” screen, write the name of the Receiver/Contact and click it. Select more than two contacts by writing and selecting each one.
+6. On the “New Conversation” screen, write the name of the Receiver/Contact and tap it. Select more than two contacts by writing and selecting each one.
 
   <div style="display: flex; justify-content: space-between;">
     <img src="Images/Step6.png" alt="Step 6" height="500"/>
@@ -70,10 +74,10 @@ To write a new message and assign a Receiver/Contact on the smartphone, follow t
   </div>
 <br>
 
-7. On the bottom section of the screen, click on the empty writing section to open up the keyboard.
+7. On the bottom section of the screen, tap on the empty writing section to open up the keyboard.
 
 8. Write the message.<br>
-    a. To add files or images, click on the buttons to the left of the writing section.
+    a. To add files or images, tap on the buttons to the left of the writing section.
 
   <img src="Images/Step8.png" alt="Step 8" height="500"/>
 
@@ -88,7 +92,7 @@ To send a new message on the smartphone, follow the next steps:
   <img src="Images/Step9.png" alt="Step 9" height="500"/>
   <br>
 
-11. Once ready, click the “Send” button to send the new message.
+11. Once ready, tap the “Send” button to send the new message.
 
 
-  <p style="font-size: 18px; margin: 0;"> 🏆 Congratulations! You sent your first message. 🏆</p>
+ > **_🏆 Congratulations! You sent your first message.🏆_** 
