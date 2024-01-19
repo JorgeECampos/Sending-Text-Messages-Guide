@@ -37,8 +37,7 @@ To open the Messages application on the smartphone, follow the next steps:
   <div style="display: flex; justify-content: space-between;">
     <img src="Images/Step1.png" alt="Step 1" height="500"/>
     <img src="Images/Step2.png" alt="Step 2" height="500" style="margin-left: 20px;"/>
-  </div>
-  
+  </div>  
 <br>
 
 3. Access the “Search bar” for Samsung by dragging it up from the bottom of your screen.
@@ -83,7 +82,6 @@ To send a new message on the smartphone, follow the next steps:
 10. Once any given message is in the writing section, the “Send” button will appear on the right part of the screen.
 
   <img src="Images/Step9.png" alt="Step 9" height="500"/>
-  <br>
   <br>
 
 11. Once ready, click the “Send” button to send the new message.
