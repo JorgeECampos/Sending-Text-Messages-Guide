@@ -17,9 +17,9 @@
 
 [Send a new message](#send-a-new-message)
 
-   1. Follow instructions 1-8 to open, assign a receiver, and write a message
-   2. Once any given message is in the writing section, the “Send” button will appear
-   3. Once ready, click the “Send” button to send the new message
+   9. Follow instructions 1-8 to open, assign a receiver, and write a message
+   10. Once any given message is in the writing section, the “Send” button will appear
+   11. Once ready, click the “Send” button to send the new message
 ---
 <br>
 
