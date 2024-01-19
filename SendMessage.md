@@ -88,7 +88,5 @@ To send a new message on the smartphone, follow the next steps:
 
 11. Once ready, click the “Send” button to send the new message.
 
-<div style="background-color: #4CAF50; color: white; padding: 10px; text-align: center; border-radius: 5px;">
-  <span style="font-size: 24px;">🏆</span>
-  <p style="font-size: 18px; margin: 0;">Congratulations! You sent your first message.</p>
-</div>
+
+  <p style="font-size: 18px; margin: 0;"> 🏆 Congratulations! You sent your first message. 🏆</p>
